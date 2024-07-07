@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a single-page web app with an API that can be used for both resizing images and serving store images. It includes a frontend for uploading and resizing images, and a backend built with Node.js, Express, TypeScript, Sharp, and Multer.
+This project is a single-page website with an API that can be used for both resizing images and serving store images. It includes a frontend for uploading and resizing images, and a backend built with Node.js, Express, TypeScript, Sharp, and Multer.
 
 ## Features
 
@@ -22,6 +22,6 @@ This project is a single-page web app with an API that can be used for both resi
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/seif8911/image-processing>
 cd image-processing-app
 ```
