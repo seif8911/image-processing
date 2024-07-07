@@ -22,6 +22,6 @@ This project is a single-page website with an API that can be used for both resi
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/seif8911/image-processing>
+git clone https://github.com/seif8911/image-processing
 cd image-processing-app
 ```
